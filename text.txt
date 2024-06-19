@@ -1,1 +1,2 @@
-This text was added in my branch"
+This text was added in my branch
+new text in file
