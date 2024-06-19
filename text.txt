@@ -1,2 +1,3 @@
 This text was added in my branch
 new text in file
+more text
